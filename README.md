@@ -6,9 +6,10 @@ Working
 - Boot into Recovery
 - Front USB-Ports
 - Network
+- Back USB-Ports
 
 Not Working
-- Back USB-Ports
+- no issue known
 
 Unknown
 - Sound (über HDMI)
