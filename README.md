@@ -4,12 +4,12 @@ Status
 
 Working
 - Boot into Recovery
-- Vordere USB-Ports
+- Front USB-Ports
+- Network
 
 Not Working
-- Hintere USB-Ports
-- Netzwerk
+- Back USB-Ports
 
-Unklar
+Unknown
 - Sound (über HDMI)
 - Standby
