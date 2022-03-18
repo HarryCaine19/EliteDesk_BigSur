@@ -7,10 +7,11 @@ Working
 - Front USB-Ports
 - Network
 - Back USB-Ports
+- Standby
+- Bluetooth
 
 Not Working
 - no issue known
-
-Unknown
-- Sound (über HDMI)
-- Standby
+- Serial#
+- Mac Device
+- CPU detection
